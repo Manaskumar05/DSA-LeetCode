@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Manaskumar05/DSA-LeetCode/tree/master/0011-container-with-most-water) |
 | [0217-contains-duplicate](https://github.com/Manaskumar05/DSA-LeetCode/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Manaskumar05/DSA-LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Manaskumar05/DSA-LeetCode/tree/master/0268-missing-number) |
 | [3903-smallest-stable-index-i](https://github.com/Manaskumar05/DSA-LeetCode/tree/master/3903-smallest-stable-index-i) |
 ## Two Pointers
@@ -57,5 +58,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Manaskumar05/DSA-LeetCode/tree/master/0238-product-of-array-except-self) |
 | [3903-smallest-stable-index-i](https://github.com/Manaskumar05/DSA-LeetCode/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
