@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Manaskumar05/DSA-LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Manaskumar05/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Manaskumar05/DSA-LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0485-max-consecutive-ones](https://github.com/Manaskumar05/DSA-LeetCode/tree/master/0485-max-consecutive-ones) |
 | [3903-smallest-stable-index-i](https://github.com/Manaskumar05/DSA-LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Manaskumar05/DSA-LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Two Pointers
