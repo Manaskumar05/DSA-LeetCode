@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Manaskumar05/DSA-LeetCode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Manaskumar05/DSA-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/Manaskumar05/DSA-LeetCode/tree/master/0485-max-consecutive-ones) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Manaskumar05/DSA-LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3903-smallest-stable-index-i](https://github.com/Manaskumar05/DSA-LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Manaskumar05/DSA-LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Two Pointers
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Manaskumar05/DSA-LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Manaskumar05/DSA-LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Manaskumar05/DSA-LeetCode/tree/master/0344-reverse-string) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Manaskumar05/DSA-LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Greedy
 |  |
 | ------- |
@@ -115,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Manaskumar05/DSA-LeetCode/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Manaskumar05/DSA-LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
